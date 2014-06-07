@@ -1394,3 +1394,12 @@ J&KCoins:
   url: http://www.jandkcoins.ca/
   content: <p>J&KCoins - Offers Canadian residents a safe and secure method of purchasing paper wallets preloaded with Bitcoins using Interac Online.</p>
   coins: [btc, doge]
+
+Ripio:
+  label: Ripio - Comprar Bitcoin Facil
+  countries: [ar]
+  location: [ar]
+  url: https://www.ripio.com/
+  content: |
+    <p>Ripio te ofrece la manera más facil de comprar bitcoins cerca tuyo pagando en RapiPago, PagoFacil, BaproPagos, ProvinciaPagos, Ripsa, CobroExpress, FormoPagos, PagoListo, PampaPagos, ChubutPagos o Cooperativa Obrera.</p>
+  coins: [BTC]
